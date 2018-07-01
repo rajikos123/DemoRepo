@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: Banking.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.92 sec <<< FAILURE!
+Demo(Banking.AppTest)  Time elapsed: 0.072 sec  <<< FAILURE!
+java.lang.AssertionError: 
+	at org.testng.AssertJUnit.fail(AssertJUnit.java:59)
+	at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:24)
+	at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:33)
+	at Banking.AppTest.Demo(AppTest.java:22)
+
